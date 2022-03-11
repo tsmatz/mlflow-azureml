@@ -58,6 +58,6 @@ jupyter notebook
   For instance, the following is the SSH tunnel setting on "PuTTY" terminal client in Windows. (You can use ```ssh -L``` option in Mac OS.)<br>
   ![SSH Tunnel settings with putty](https://tsmatz.github.io/images/github/azure-ml-tensorflow-complete-sample/20191225_SSH_Tunnel.jpg)
 
-- Copy the notebook URL (```http://localhost:8888/?token=...```) in the console output (see above) and open this address with your web browser.
+- Copy the notebook URL (```http://localhost:8888/?token=...```) and open this address with your web browser.
 
 *Tsuyoshi Matsuzaki @ Microsoft*
