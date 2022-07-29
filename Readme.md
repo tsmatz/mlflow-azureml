@@ -1,4 +1,4 @@
-# MLflow with Azure ML backend
+# Azure Machine Learning via MLflow API
 
 MLflow requires backend server for recording tracks or storing artifacts. Currently, MLflow client can interface with a variety of backends, such as, local file path, http server, database, or [databricks workspace](https://tsmatz.github.io/azure-databricks-exercise/exercise10-mlflow.html).<br>
 Azure Machine Learning (shortly, Azure ML or AML) can also integrate with MLflow, and will become one of such backend's service.
