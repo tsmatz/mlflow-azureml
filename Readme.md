@@ -38,7 +38,8 @@ pip3 install azureml-mlflow==1.39.0
 pip3 install numpy scikit-learn matplotlib
 ````
 
-> Note : The ```azureml-mlflow``` installation automatically brings ```azureml-core``` (Azure ML Python SDK core library).
+> Note : The ```azureml-mlflow``` (till version 1.42.0) installation automatically brings ```azureml-core``` (Azure ML Python SDK core library v1).<br>
+> When you use ```azureml-mlflow``` version 1.43.0 or above, use [Azure ML SDK v2](https://github.com/tsmatz/azureml-tutorial) instead.
 
 - Clone this repository.
 
